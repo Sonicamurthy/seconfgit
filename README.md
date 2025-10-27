@@ -1,3 +1,2 @@
 # seconfgit
-second readme
-sjhdhfj
+I have changes something
